@@ -1,0 +1,16 @@
+.menu{
+    position: sticky;
+    color:green;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: black;
+}
+.nav{
+    color:blanchedalmond;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+.link{
+    margin-right: 10px;
+    text-decoration-line: underline;
+}
