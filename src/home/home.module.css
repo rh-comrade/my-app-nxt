@@ -1,0 +1,7 @@
+.home{
+    position: sticky;
+    color:green;
+    font-weight: 500;
+    font-size: 30px;
+    background-color: black;
+}
