@@ -1,7 +1,8 @@
 .home{
-    position: sticky;
-    color:green;
+    background-color: antiquewhite;
+    width: 100%;
+    position: fixed;
     font-weight: 500;
     font-size: 30px;
-    background-color: black;
+    height: 60vh;
 }

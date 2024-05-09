@@ -1,14 +1,11 @@
-.menu{
-    position: sticky;
-    color:green;
-    font-weight: 500;
-    font-size: 20px;
-    background-color: black;
-}
 .nav{
+    display: flex;
+    justify-content: end;
     color:blanchedalmond;
-    font-size: 30px;
+    font-size: 20px;
     letter-spacing: 3px;
+    padding: 5px;
+    
 }
 .link{
     margin-right: 10px;
