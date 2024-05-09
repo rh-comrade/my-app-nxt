@@ -4,7 +4,6 @@ import Link from 'next/link'
 import menuItems from './config.json'
 const Menu = () => {
   return (
-    <div className={styles.menu}>
     <nav className={styles.nav}>
       {
         menuItems?.map(({item,route},index)=>{
@@ -12,7 +11,6 @@ const Menu = () => {
         })
       }
     </nav>
-  </div>
   )
 }
 
